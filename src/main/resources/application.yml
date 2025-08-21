@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: ${MONGODB_URI:mongodb://localhost:27017/practice}
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+pricing:
+  base-url: http://localhost:9090
