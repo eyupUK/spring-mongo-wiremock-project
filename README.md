@@ -1,4 +1,4 @@
-# Spring Boot + MongoDB + WireMock Practice
+# Spring Boot + MongoDB + WireMock
 
 A small CRUD API to practice **API tests (Rest Assured)**, **DB tests (Testcontainers MongoDB)**, and **service virtualization (WireMock)**.
 
